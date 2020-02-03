@@ -29,7 +29,6 @@ ScriptsOnlyBuild:
     - Zenject.SceneContext
     - Zenject.ZenjectBinding
     com.unity.multiplayer-hlapi.Runtime.dll:
-    - UnityEngine.Networking.NetworkCallbacks
     - UnityEngine.Networking.NetworkIdentity
   sceneClasses:
     Assets/Scenes/GameScene.unity:
@@ -821,4 +820,4 @@ ScriptsOnlyBuild:
   platform: 13
   scenePathNames:
   - Assets/Scenes/GameScene.unity
-  playerPath: D:/projects/unity/flappy tappy bird/Builds/Android/FlappyTappyBird.apk
+  playerPath: D:/projects/unity/flappy tappy bird/Builds/Android/FlappyTappyBird1.apk
